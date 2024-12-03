@@ -164,15 +164,12 @@ Endpoint baru ini menambah fungsionalitas dalam sistem pemesanan. Karena pengelo
 - **Backend**: Harus memproses status yang relevan secara efisien dan mengembalikan respons yang sesuai untuk membantu frontend memberikan pengalaman pengguna yang baik.
 
 
-Dokumentasi ini menyajikan pedoman dan harapan untuk setiap interaksi yang dapat dilakukan dengan API terkait status pemesanan.
-```
 
 
-### Penjelasan Format Markdown:
+
+## Penjelasan Format Markdown:
 - **Struktur**: Dokumen ini disusun dengan jelas menggunakan header yang berbeda untuk memisahkan bagian-bagian, seperti deskripsi, permintaan, respons, dan penjelasan untuk frontend dan backend.
 - **Kode JSON**: Respons JSON disertakan dalam blok kode terpisah agar mudah dibaca.
 - **Pemisahan dengan Garis Horizontal**: Garis horizontal (`---`) digunakan untuk memisahkan setiap bagian API untuk meningkatkan keterbacaan.
 - **Bahasa yang Jelas**: Penjelasan disusun untuk membantu kedua tim (frontend dan backend) memahami konteks dan fungsi setiap endpoint, menciptakan dasar yang kuat untuk kolaborasi.
 
-
-Dokumen ini akan bermanfaat bagi pengembang FE dan BE untuk memahami dan menggunakan API dengan benar.
